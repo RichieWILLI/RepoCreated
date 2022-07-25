@@ -18,6 +18,8 @@ public class Mavenpractice2Test {
 		System.out.println(" automation");
 		System.out.println(" automation2");
 		System.out.println(" automation22");
+		System.out.println(" automation222");
+		System.out.println(" automation22");
 		
 	}
 	@Test
