@@ -7,7 +7,7 @@ public class MavenpracticeTest
 	@Test
 	public void  mvnsample()
 	{
-		System.out.println(" i am a  good tester");
+		System.out.println(" i am a  good");
 		
 	}
 	@Test
