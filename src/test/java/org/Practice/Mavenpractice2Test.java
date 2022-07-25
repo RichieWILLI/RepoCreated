@@ -16,6 +16,7 @@ public class Mavenpractice2Test {
 	public void  mvnsample1() 
 	{
 		System.out.println(" automation");
+		System.out.println(" automation2");
 		
 	}
 	@Test
